@@ -1,4 +1,4 @@
-# Max Heap Sort (Descending)
+# Max Heap Sort (Ascending)
 
 ## Max Heap Sort
 * Uses a max-heap where the root is the largest number.
